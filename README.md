@@ -11,7 +11,7 @@ Parts required:
 * Any wires to connect Tang Primer 20K to TM1638;
 * 12x M2.5 nuts ([AliExpress](https://ali.click/alzrxv));
 * 8x M2.5x8mm screws ([AliExpress](https://ali.click/nvzrxv)) for PCBs;
-* 4x M2.5x12mm screws ([AliExpress](https://ali.click/nvzrxv)) for screen.
+* 4x M2.5x12mm screws ([AliExpress](https://ali.click/o25tx1)) for screen.
 
 Tools required:
 
